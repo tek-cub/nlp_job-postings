@@ -17,7 +17,7 @@ An overview of the project's objectives:
 
 The two main techniques used in the analysis are cosine similarity comparisons and a k-means clustering. Conversely, the techniques used in this project can be used from the perspective of a hiring manager or so forth, who is looking to filter job applicants down to a workable level or to group them based on similarity to other applicants for a better idea of the available talent pool. 
 
-The repository's owner was provided the job postings sample data by Manning, with no details of its collection. So no assumptions were made about how well it represents its population (which was not firmly defined): this was not part of the project. That being said the purpose of this project is educational more than practical so from the project's perspective it is being assumed that the data was properly sampled for a well defined population.
+The repository's owner was provided the job postings sample data by Manning, with no details of its collection. So no assumptions were made about how well it represents its population (which was not firmly defined): this was not part of the project. The purpose of this project is educational more than practical; so from the project's perspective, it is being assumed that the data was properly sampled for a well defined population.
 
 ## Instructions
 
